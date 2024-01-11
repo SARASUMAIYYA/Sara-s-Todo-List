@@ -1,17 +1,8 @@
-# SimpleTodo
-#### Because the world needed another todo app.
+# Sara's Todo List
 
 This is a basic Node application with an Express/MySQL backend. Features include standard todo list functionality: add, toggle, edit, and delete todos, all stored in a MySQL database.
 
-This app is deployed on Heroku and can be found **[here.](https://desolate-ravine-82175.herokuapp.com/)**
-<small><strong>Note:</strong> Becuase this is a Heroku app initial load my be slow.</small>
 
-![1](https://user-images.githubusercontent.com/30272940/48655852-8c44cd00-e9e2-11e8-8f54-394877f4f30e.jpg)
-
-## Quick Start
-```
-# Clone
-git clone git@github.com:jason-michael/express-mysql-todo.git && cd express-mysql-todo
 
 # Install
 npm i
@@ -37,7 +28,3 @@ Click the ☐ <small>or</small> ☑ on the left of each todo to set it to comple
 #### ❌ Delete
 Click the **x** on the right of each todo to delete it.
 
-## Issues
-- Error handling needs to be more robust, i.e. handling database disconnects, bad requests, etc.
-
----
